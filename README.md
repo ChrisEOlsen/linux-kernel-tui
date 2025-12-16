@@ -7,7 +7,6 @@
 A high-performance terminal utility for exploring the Linux `sysfs` kernel interface. It visualizes hardware hierarchies and provides real-time sensor monitoring (Thermal, Network, Power) entirely in **user-space**, ensuring safe deployment without requiring elevated privileges.
 
 ![Linux Kernel Monitor TUI Demo](demo.png)
-*(Note: Add a screenshot of your TUI here after your first build)*
 
 ## 🚀 Why this tool?
 
