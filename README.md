@@ -38,7 +38,7 @@ This project uses **CMake** and handles dependencies automatically.
 ### Build Steps
 ```bash
 # 1. Clone the repository
-git clone [git@github.com:ChrisEOlsen/linux-kernel-tui.git](git@github.com:ChrisEOlsen/linux-kernel-tui.git)
+git clone git@github.com:ChrisEOlsen/linux-kernel-tui.git
 cd linux-kernel-map-tui
 
 # 2. Create build directory
@@ -50,6 +50,7 @@ make -j4
 
 # 4. Run
 ./kmap
+```
 
 ##🗺️ Roadmap* [x] **v0.1.0:** Basic directory traversal of `/sys/class` using `std::filesystem`.
 * [ ] **v0.2.0:** Real-time sparkline graphs for integer-based sensors (thermal/power).
