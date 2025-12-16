@@ -38,7 +38,7 @@ This project uses **CMake** and handles dependencies automatically.
 ### Build Steps
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/YOUR_USERNAME/linux-kernel-map-tui.git](https://github.com/YOUR_USERNAME/linux-kernel-map-tui.git)
+git clone [git@github.com:ChrisEOlsen/linux-kernel-tui.git](git@github.com:ChrisEOlsen/linux-kernel-tui.git)
 cd linux-kernel-map-tui
 
 # 2. Create build directory
