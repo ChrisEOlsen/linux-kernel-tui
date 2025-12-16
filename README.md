@@ -39,7 +39,7 @@ This project uses **CMake** and handles dependencies automatically.
 ```bash
 # 1. Clone the repository
 git clone git@github.com:ChrisEOlsen/linux-kernel-tui.git
-cd linux-kernel-map-tui
+cd linux-kernel-tui
 
 # 2. Create build directory
 mkdir build && cd build
